@@ -1,3 +1,9 @@
+# Sensitive configs and credentials
+config.json
+*.secret
+*.token
+.env
+
 # Build outputs and directories
 build/
 bin/
@@ -43,5 +49,3 @@ CTestTestfile.cmake
 .vscode/
 *.swp
 *.swo
-build.bat
-CMakeLists.txt
