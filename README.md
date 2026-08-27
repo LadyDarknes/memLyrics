@@ -1,5 +1,6 @@
 A lightweight, joke/utility C++ tool that synchronizes and formats song lyrics into a dedicated memory block, turning **Memory Viewer** into a live karaoke display.
 
+Old project: LadyDarknes/SpotifyLyricer
 ---
 
 ```text
