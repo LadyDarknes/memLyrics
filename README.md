@@ -17,3 +17,4 @@ Old project: LadyDarknes/SpotifyLyricer
 ```
 ---
 ## Preview:
+[s](https://i.imgur.com/737aB5b.mp4)
