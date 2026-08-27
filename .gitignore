@@ -1,0 +1,47 @@
+# Build outputs and directories
+build/
+bin/
+obj/
+out/
+x64/
+x86/
+Debug/
+Release/
+
+# Compiled files
+*.obj
+*.o
+*.lib
+*.a
+*.dll
+*.exe
+*.pdb
+*.ilk
+*.exp
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+*.ninja*
+!CMakeLists.txt
+!cmake/*.cmake
+
+# Visual Studio & IDEs
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+.idea/
+.vscode/
+*.swp
+*.swo
+build.bat
+CMakeLists.txt
